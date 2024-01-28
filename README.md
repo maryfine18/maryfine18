@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maryfine
-- 👀 I’m interested in Statistical Packages
-- 🌱 I’m currently learning R language
+- 👀 I’m interested in Statistical/ Data Analysis projects
+- 🌱 Collaboration in python
 - 💞️ I’m looking to collaborate on R 
 - 📫 How to reach me via okarimaryfine18@gmail.com 
 
