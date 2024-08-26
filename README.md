@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Maryfine
-- 👀 I’m interested in Statistical/ Data Analysis projects
-- 🌱 Collaboration in python
-- 💞️ I’m looking to collaborate on R 
-- 📫 How to reach me via okarimaryfine18@gmail.com 
+- 👋 Maryfine Okari
+- 👀 Marketing Data Analyst| Digital Marketing Specialist
+- 
+- 🌱 Ms.Excel, R, Python, SQL, Power BI, Looker Studio
+- 
+- 💞️
+- 📫 okarimaryfine18@gmail.com 
 
 <!---
 maryfine18/maryfine18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
