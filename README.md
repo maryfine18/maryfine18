@@ -1,7 +1,9 @@
 - 👋 Maryfine Okari
-- 👀 Marketing Data Analyst| Digital Marketing Specialist
+- 👀 Data Analyst
   
-- 🌱 Ms.Excel, R, Python, SQL, Power BI, Looker Studio
+- 🌱 Data analysis: Ms.Excel, R, Python
+- Database tools:  SQL, Big Query
+- Visualization tools: Power BI, Looker Studio
   
   
 - 📫 okarimaryfine18@gmail.com 
