@@ -1,7 +1,10 @@
-- 👋 Maryfine Okari
-- 👀 Data Analyst
+  Maryfine Okari
+  Data Analyst | Data Scientist
   
-- 🌱 Data analysis: Ms.Excel, R, Python
+- LinkedIn: https://www.linkedin.com/in/okari-maryfine-b157961b6/
+- Mysite  : https://datainsightstories.wordpress.com/
+  
+- Data analysis: Ms.Excel, R, Python
 - Database tools:  SQL, Big Query
 - Visualization tools: Power BI, Looker Studio
   
