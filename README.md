@@ -1,5 +1,5 @@
   Maryfine Okari
-  Data Analyst | Data Scientist
+- Data Analyst | Data Scientist
   
 - LinkedIn: https://www.linkedin.com/in/okari-maryfine-b157961b6/
 - Mysite  : https://datainsightstories.wordpress.com/
